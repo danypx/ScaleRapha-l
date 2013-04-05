@@ -3,6 +3,11 @@ scale.raphael.js
 
 Useful piece of JS to make raphaël.js scalable for responsive layouts. Not my piece of code, the original author is Zevan Rosser (www.shapevent.com). 
 
+
+Help
+====
+
+Extended info can be found here: http://www.shapevent.com/scaleraphael.
 License
 =======
 The MIT License (MIT)
